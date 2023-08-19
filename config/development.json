@@ -1,0 +1,8 @@
+{
+    "PORT": 8000,
+    "JWT_KEY": "strong$$key&&for**jwt",
+    "DB_URL": "mongodb://127.0.0.1:27017/examManager",
+    "SALT": 15,
+    "ownEmail": "joewillson857@gmail.com",
+    "emailPass": "pqlnlqknqedsimza"
+}
